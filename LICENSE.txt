@@ -1,0 +1,13 @@
+Copyright © 2026 Ivan Dimitrov. All rights reserved.
+
+Everyone is permitted to view the source code of this repository on GitHub. However, no one may modify, copy, distribute, sub-license, or sell the software for any purpose without the express written permission of the copyright holder.
+
+This app is my own work. The original application code and assets are proprietary. No use, referencing, reproduction, or modification is permitted without the author’s express prior written consent, signed physically or digitally.
+
+The copyright also includes the logo and its derivatives, depicting a triplet of nested letters D, merging at the bottom left.
+
+These restrictions apply to Flashker’s original code and assets. Third-party components remain governed by their respective licenses:
+ts-fsrs 5.4.2 -- spaced repetition scheduling. Copyright © 2026 Open Spaced Repetition
+Vite 8.3.4 -- bundled module-preload helper. Copyright © 2019-present, VoidZero Inc. and Vite contributors
+
+Both components are distributed under the MIT License, which is available in the README.md.
